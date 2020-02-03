@@ -1,4 +1,7 @@
 <html>
+<div class=”postmetadata”>
+Posted on <span class=”updated”>January 21, 2020</span> 
+</div>
 <head><title>I am doing a test of the testing of the tests</title></head>
 <body>
 	<div class="entry-meta"><a class="entry-date published">January 20, 2020</a></div>
